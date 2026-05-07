@@ -4,18 +4,18 @@
 
 https://flc10zp5iqkg.devv.app/
 
-## NanoBanana Design Screenshots
+NanoBanana Design Screenshots
 
 Uploaded in repository screenshots folder
 
-## Promo Video
+Promo Video
 
-(Add YouTube link later)
+(Add YouTube link here)
 
-## Promo Audio
+Suno Audio
 
-(Add Suno link later)
+https://suno.com/s/70G1d9ZPEbtCcQqG
 
-## Additional Assets
+Additional Assets
 
-Luxury barber placeholder images generated with AI tools.
+Luxury barber visuals generated using AI tools and prompt engineering workflows.
