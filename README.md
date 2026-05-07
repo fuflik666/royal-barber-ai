@@ -1,1 +1,0 @@
-# royal-barber-ai
